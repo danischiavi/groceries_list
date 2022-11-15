@@ -1,0 +1,429 @@
+[
+    {"name": "berenjena rellena","ingredients": [
+        {"name": "berenjena (u)", "amount": 1},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 0.5},
+        {"name": "tomate en cubos (lata)", "amount": 1},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "queso p/cocinar (g)", "amount": 100}
+      ]},
+
+    {"name": "bowl Miso rosted choclo","ingredients": [
+        {"name": "tofu (g)", "amount": 250},
+        {"name": "morron (u)", "amount": 0.5},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "repollo colorado (u)", "amount": 0.25},
+        {"name": "kahle (u)", "amount": 0.5},
+	{"name": "arroz negro (g)", "amount": 100},
+	{"name": "almendras (g)", "amount": 50},
+	{"name": "aderezo miso sesamo ginger (u)", "amount": 1}
+      ]},
+ 
+    {"name": "bunuelos de espinaca","ingredients": [
+        {"name": "espinaca freezada (g)", "amount": 500},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "ajo (u)", "amount": 1},
+        {"name": "huevo (u)", "amount": 1},
+        {"name": "harina (g)", "amount": 100}
+      ]},
+    
+    {"name": "creps con vegetales", "ingredients": [
+        {"name": "leche (u)", "amount": 0.25},
+        {"name": "harina (g)", "amount": 200},
+        {"name": "kahle (u)", "amount": 1},
+        {"name": "espinaca fresca (u)", "amount": 1},
+        {"name": "champinon (u)", "amount": 8},
+        {"name": "morron (u)", "amount": 0.25}
+      ]},
+
+    {"name": "curry de coliflor y almendras","ingredients": [
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "jengibre (u)", "amount": 1},
+        {"name": "garam masala (u)", "amount": 1},
+        {"name": "pasta curry tikka (u)", "amount": 1},
+        {"name": "coliflor (u)", "amount": 1},
+        {"name": "berenjena (u)", "amount": 1},
+        {"name": "crema de coco (u)", "amount": 1},
+        {"name": "almendras (g)", "amount": 20}
+      ]},
+  
+    {"name": "curry de vegetales con garbanzos","ingredients": [
+        {"name": "curry paste (u)", "amount": 1},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "brocoli (u)", "amount": 0.25},
+        {"name": "papa (u)", "amount": 1},
+        {"name": "zapallo (u)", "amount": 0.25},
+        {"name": "garbanzos (g)", "amount": 200}
+      ]},
+      
+    {"name": "ensalada de coliflor y queso azul","ingredients": [
+        {"name": "coliflor (u)", "amount": 0.5},
+        {"name": "rucula (u)", "amount": 1},
+        {"name": "queso azul (g)", "amount": 120},
+        {"name": "alcaparras (u)", "amount": 0.25},
+        {"name": "semillas de zapallo (u)", "amount": 1},
+        {"name": "semillas de girasol (u)", "amount": 1},
+        {"name": "semillas de sesamo (u)", "amount": 1}
+      ]},    
+
+    {"name": "ensalada de espinaca, zapallo y ricota","ingredients": [
+        {"name": "zapallo (u)", "amount": 0.5},
+        {"name": "ricota (g)", "amount": 100},
+        {"name": "espinaca fresca (u)", "amount": 1},
+        {"name": "tomates cherry (u)", "amount": 1},
+        {"name": "cebolla morada (u)", "amount": 1}
+      ]},  
+      
+    {"name": "ensalada de garbanzos","ingredients": [
+        {"name": "garbanzos (g)", "amount": 200},
+        {"name": "lechuga (u)", "amount": 100},
+        {"name": "tomates cherry (u)", "amount": 1},
+        {"name": "palta (u)", "amount": 1},
+        {"name": "aceitunas negras (u)", "amount": 0.25},
+        {"name": "queso fetta (g)", "amount": 100}
+      ]},  
+      
+    {"name": "ensalada de tomate y lentejas","ingredients": [
+        {"name": "tomates cherry (u)", "amount": 1},
+        {"name": "tomate (u)", "amount": 2},
+        {"name": "cebolla morada (u)", "amount": 1},
+        {"name": "lentejas (g)", "amount": 200},
+        {"name": "queso de cabra (g)", "amount": 100}
+      ]},
+      
+    {"name": "guiso de lentejas","ingredients": [
+        {"name": "lentejas (g)", "amount": 200},
+        {"name": "porotos negros (u)", "amount": 50},
+        {"name": "porotos rojos (u)", "amount": 50},
+        {"name": "salsa de tomate (ml)", "amount": 1000},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "brocoli (u)", "amount": 0.25},
+        {"name": "champinon (u)", "amount": 6},
+        {"name": "choclo (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 0.5},
+        {"name": "papa (u)", "amount": 1},
+        {"name": "zapallo (u)", "amount": 0.25},
+        {"name": "puerro (u)", "amount": 0.5}
+      ]},
+    
+    {"name": "goulash","ingredients": [
+        {"name": "tomate en cubos (lata)", "amount": 2},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 1},
+        {"name": "zanahoria (u)", "amount": 2},
+        {"name": "puerro (u)", "amount": 1},
+        {"name": "papa (u)", "amount": 1},
+        {"name": "berenjena (u)", "amount": 1},
+        {"name": "ajo (u)", "amount": 3},
+        {"name": "paprika (u)", "amount": 1}
+      ]},
+      
+    {"name": "hamburguesas de quinoa","ingredients": [
+        {"name": "quinoa (g)", "amount": 320},
+        {"name": "avena (g)", "amount": 60},
+        {"name": "cebolla (u)", "amount": 0.5},
+        {"name": "morron (u)", "amount": 0.3},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "huevo (u)", "amount": 4}
+      ]},
+
+    {"name": "lasanaa de zuccini","ingredients": [
+        {"name": "zuccini (u)", "amount": 3},
+	{"name": "ajo (u)", "amount": 2},
+        {"name": "moron (u)", "amount": 0.3},
+	{"name": "cebolla (u)", "amount": 1},
+	{"name": "zanahoria (u)", "amount": 1},
+	{"name": "berenjena (u)", "amount": 0.5},
+	{"name": "hinojo (u)", "amount": 0.25},
+        {"name": "salsa de tomate (ml)", "amount": 500},
+	{"name": "chilli (u)", "amount": 1},
+        {"name": "pan rallado (g)", "amount": 100}
+      ]},
+
+     {"name": "milanesas de berenjena con ensalada","ingredients": [
+        {"name": "berenjena (u)", "amount": 1},
+        {"name": "huevo (u)", "amount": 1},
+        {"name": "pan rallado (g)", "amount": 200},
+        {"name": "lechuga (u)", "amount": 0.5},
+        {"name": "tomate (g)", "amount": 2},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "queso fetta (g)", "amount": 100}
+      ]},
+   
+    {"name": "morrones rellenos con cus cus","ingredients": [
+        {"name": "morron (u)", "amount": 2},
+        {"name": "cabolla (u)", "amount": 1},
+        {"name": "choclo (u)", "amount": 1},
+        {"name": "puerro (u)", "amount": 0.5},
+        {"name": "queso p/cocinar (g)", "amount": 100},
+        {"name": "huevo (u)", "amount": 125},
+        {"name": "cus cus (g)", "amount": 200}
+      ]},
+
+    {"name": "moussaka","ingredients": [
+        {"name": "berenjena (u)", "amount": 1},
+        {"name": "cabolla (u)", "amount": 1},
+        {"name": "zapallo (u)", "amount": 0.25},
+        {"name": "morron (u)", "amount": 0.3},
+        {"name": "queso p/cocinar (g)", "amount": 100},
+        {"name": "hinojo (u)", "amount": 0.25},
+        {"name": "ajo (u)", "amount": 2},
+	{"name": "tomate en cubos (lata)", "amount": 1},
+	{"name": "leche (ml)", "amount": 250},
+	{"name": "lentejas (g)", "amount": 90}
+      ]},
+    
+    {"name": "noquis de papa","ingredients": [
+        {"name": "papa (u)", "amount": 6},
+        {"name": "harina (g)", "amount": 500},
+        {"name": "huevo (u)", "amount": 1},
+        {"name": "queso p/cocinar (g)", "amount": 100}
+      ]},
+
+    {"name": "noquis de ricota","ingredients": [
+        {"name": "ricota (g)", "amount": 500},
+        {"name": "harina (g)", "amount": 200},
+        {"name": "huevo (u)", "amount": 1},
+        {"name": "queso p/cocinar (g)", "amount": 100}
+      ]},
+
+    {"name": "pasta con pesto","ingredients": [
+        {"name": "pasta fresca (u)", "amount": 1},
+        {"name": "pesto (u)", "amount": 1}
+      ]},
+    
+    {"name": "pizza","ingredients": [
+        {"name": "levadura seca (u)", "amount": 1},
+        {"name": "harina (g)", "amount": 500},
+        {"name": "muzzarela (g)", "amount": 400},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "aceite (ml)", "amount": 50}
+      ]},
+    
+    {"name": "polenta con vegetales asados","ingredients": [
+        {"name": "polenta (g)", "amount": 200},
+        {"name": "berenjena (g)", "amount": 1},
+        {"name": "tomates cherry (u)", "amount": 1},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "zuccini (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 0.25},
+        {"name": "queso fetta (g)", "amount": 100}
+      ]},
+    
+    {"name": "risotto esparragos y limon","ingredients": [
+        {"name": "arroz (g)", "amount": 200},
+        {"name": "esparragos (u)", "amount": 10},
+        {"name": "ajo (u)", "amount": 3},
+        {"name": "limon (u)", "amount": 1},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "vino blanco (ml)", "amount": 125},
+        {"name": "caldo verdura (u)", "amount": 1}
+      ]},
+    
+    {"name": "risotto zanahoria y limon", "ingredients": [
+        {"name": "arroz (g)", "amount": 200},
+        {"name": "zanahoria (u)", "amount": 6},
+        {"name": "limon (u)", "amount": 1},
+        {"name": "ajo (u)", "amount": 3},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "vino blanco (ml)", "amount": 125},
+        {"name": "caldo verdura (u)", "amount": 1}
+      ]},
+    
+    {"name": "risotto zapallo", "ingredients": [
+        {"name": "arroz (g)", "amount": 200},
+        {"name": "zapallo (u)", "amount": 0.5},
+        {"name": "ajo (u)", "amount": 3},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "vino blanco (ml)", "amount": 125},
+        {"name": "caldo verdura (u)", "amount": 1}
+      ]},
+
+    {"name": "salsa putanesca","ingredients": [
+        {"name": "ajo (u)", "amount": 3},
+        {"name": "anchoas (u)", "amount": 1},
+        {"name": "aceitunas negras (u)", "amount": 0.25},
+        {"name": "tomates cherry (u)", "amount": 1},
+        {"name": "albahaca (u)", "amount": 1},
+        {"name": "alcaparras (u)", "amount": 0.25}
+      ]},
+
+   {"name": "sopa arvejas y zuccini", "ingredients": [
+        {"name": "zuccini (u)", "amount": 6},
+        {"name": "arvejas (g)", "amount": 500},
+        {"name": "albahaca (u)", "amount": 1},
+        {"name": "queso feta (g)", "amount": 200},
+        {"name": "caldo verdura (u)", "amount": 1},
+        {"name": "limon (u)", "amount": 1}
+	]},  
+
+    {"name": "sopa champinones", "ingredients": [
+        {"name": "champinon (u)", "amount": 10},
+        {"name": "sweet potato (u)", "amount": 1},
+        {"name": "papa (g)", "amount": 1},
+        {"name": "salsa de soja (ml)", "amount": 100},
+        {"name": "caldo verdura (u)", "amount": 1},
+        {"name": "haloumi (g)", "amount": 100}
+	]},  
+ 
+    {"name": "sopa chauchas", "ingredients": [
+        {"name": " (u)", "amount": 1},
+        {"name": "cebolla (u)", "amount": 50},
+        {"name": "ajo (u)", "amount": 3},
+        {"name": "semillas de comino (u)", "amount": 1},
+        {"name": "paprika (u)", "amount": 1},
+	{"name": "nuez moscada (u)", "amount": 1},
+	{"name": "extracto de tomate (u)", "amount": 1},
+	{"name": "chauchas (g)", "amount": 500},
+	{"name": "tomates (u)", "amount": 6},
+	{"name": "caldo verdura (u)", "amount": 1},
+	{"name": "cilantro fresco (u)", "amount": 1}
+      ]},
+    
+    {"name": "sopa zanahoria y lentejas", "ingredients": [
+        {"name": "zanahoria (u)", "amount": 10},
+        {"name": "lentejas rojas (g)", "amount": 200},
+        {"name": "caldo verdura (u)", "amount": 1},
+        {"name": "jengibre (u)", "amount": 1},
+        {"name": "pan naan (u)", "amount": 2},
+        {"name": "yogurt (g)", "amount": 20}
+      ]},
+    
+    {"name": "tarta de brocoli", "ingredients": [
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 0.25},
+        {"name": "brocoli (u)", "amount": 1},
+        {"name": "harina (g)", "amount": 200},
+        {"name": "huevo (u)", "amount":2}
+      ]},
+      
+    {"name": "tarta de choclo", "ingredients": [
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 0.25},
+        {"name": "choclo cremoso (lata)", "amount": 1},
+        {"name": "choclo en granos (lata)", "amount": 1},
+        {"name": "salsa blanca (taza)", "amount": 1},
+        {"name": "harina (g)", "amount": 200},
+        {"name": "huevo (u)", "amount":2}
+      ]},
+
+    {"name": "vegetales al horno con berlay", "ingredients": [
+        {"name": "repollitos de bruselas (u)", "amount": 6},
+        {"name": "zuccini (u)", "amount": 1},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 0.5},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "ajo (u)", "amount": 10},
+        {"name": "zapallo (u)", "amount": 0.25},
+        {"name": "berenjena (u)", "amount": 0.25},
+        {"name": "papa (u)", "amount": 1},
+        {"name": "sweet potato (u)", "amount": 1},
+        {"name": "hinojo (u)", "amount": 0.5},
+        {"name": "champinon (u)", "amount": 8},
+        {"name": "brocoli (u)", "amount": 0.25},
+        {"name": "berlay (g)", "amount": 200}
+      ]},
+  
+    {"name": "vegetales salteados", "ingredients": [
+        {"name": "stir fry sauce (u)", "amount": 1},
+        {"name": "zuccini (u)", "amount": 1},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 0.5},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "brocoli (u)", "amount": 0.5}
+      ]}, 
+
+     {"name": "zapallo al horno con lentejas y queso azul","ingredients": [
+        {"name": "zapallo (u)", "amount": 1},
+        {"name": "cebolla morada (u)", "amount": 2},
+        {"name": "lentejas (g)", "amount": 100},
+        {"name": "limon (u)", "amount": 1},
+        {"name": "zanahoria (u)", "amount": 1},
+        {"name": "queso azul (g)", "amount": 100},
+	{"name": "especias: sage, ajo, perejil, menta, tarragon (u)", "amount": 1}
+      ]}, 
+ 
+    {"name": "zapallo relleno", "ingredients": [
+        {"name": "zapallo (u)", "amount": 1},
+        {"name": "arroz (g)", "amount": 50},
+        {"name": "queso fetta (g)", "amount": 100},
+        {"name": "espinaca fresca (u)", "amount": 0.5},
+        {"name": "kahle (u)", "amount": 0.5}
+      ]}, 
+
+
+     {"name": "---> RAPIDO Y RICO <---","ingredients": [
+        {"name": "", "amount": 0}
+      ]},
+
+     {"name": "cus cus con esparragos y champinones", "ingredients": [
+        {"name": "esparragos (u)", "amount": 6},
+        {"name": "champinon (u)", "amount": 10},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "ajo (u)", "amount": 2},
+        {"name": "limon (u)", "amount": 0.5},
+        {"name": "cus cus (g)", "amount": 200}
+      ]},     
+
+     {"name": "mexican mix", "ingredients": [
+        {"name": "nachos (u)", "amount": 1},
+        {"name": "lechuga (u)", "amount": 1},
+        {"name": "tomate (u)", "amount": 1},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "palta (u)", "amount": 1},
+        {"name": "queso (g)", "amount": 200},
+	{"name": "palta (u)", "amount": 1},
+	{"name": "porotos (u)", "amount": 1},
+	{"name": "salsa mexicana (u)", "amount": 1},
+	{"name": "chilli (u)", "amount": 1}
+      ]},  
+
+     {"name": "milanesa con ensalada", "ingredients": [
+        {"name": "milanesas/hamburguesas (u)", "amount": 2},
+        {"name": "tomate (u)", "amount": 1},
+        {"name": "ensalada (u)", "amount": 1},
+        {"name": "queso (g)", "amount": 200}
+      ]},
+
+     {"name": "pasta fresca", "ingredients": [
+        {"name": "pasta fresca (u)", "amount": 1},
+        {"name": "salsa/pesto (u)", "amount": 1}
+      ]},
+
+     {"name": "pho", "ingredients": [
+        {"name": "pho stock (u)", "amount": 1},
+        {"name": "bok choy (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 1},
+	{"name": "zanahoria (u)", "amount": 1},
+	{"name": "brocoli (u)", "amount": 1},
+	{"name": "tofu (u)", "amount": 1},
+	{"name": "noodles (u)", "amount": 1},
+        {"name": "brotes de soja (u)", "amount": 1}
+      ]},
+
+     {"name": "sopa de brocoli", "ingredients": [
+        {"name": "apio (u)", "amount": 0.25},
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "puerro (u)", "amount": 1},
+	{"name": "papa (u)", "amount": 1},
+	{"name": "brocoli (u)", "amount": 1},
+	{"name": "caldo de verdura (u)", "amount": 1},
+        {"name": "queso azul (g)", "amount": 140}
+      ]},
+
+     {"name": "tarta de espinaca y fetta", "ingredients": [
+        {"name": "cebolla (u)", "amount": 1},
+        {"name": "morron (u)", "amount": 0.25},
+        {"name": "kahle (u)", "amount": 1},
+        {"name": "espinaca freezada (g)", "amount": 500},
+        {"name": "champinon (u)", "amount": 8},
+        {"name": "harina (g)", "amount": 200},
+        {"name": "huevo (u)", "amount":2}
+      ]}
+
+
+]
+
+
+
